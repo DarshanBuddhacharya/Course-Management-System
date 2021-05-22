@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------------------
+Program Name: Course Management System
+IDLE used: INTELLIJ idle
+SDK: Java version 11.0.5
+-----------------------------------------------------------------------------------------
+Login details for Course Administrator
+ID : 12345
+UserName: Admin
+Password: 12345
+------------------------------------------------------------------------------------------
+Course BIT and its modules are automatically assigned with 10 instructors
+However,modules for BIBM are not assigned. Students and their marks are not assigned for both
+Courses. 
+You can add,edit or delete Courses, Modules and instructors from Course Administrator. 
+Also, generate result card for respective students
+You can add students to thier repective course and level from student Panel
+and Assign marks from instructor pannel.(Note ID for instructor panel is same as the ID in instructor table in Course Administrator)
+   

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="881b9a65-30ad-48e2-9ece-100fe1676d26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mVDvhofHiB0FKkbXHnQZEl1ly4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="course_management_system" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="264" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="282" />
+    <property name="last_opened_file_path" value="C:/temp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\demon\Desktop\College stuff\Course Management System\src\Course\Management\System" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.intellij.uiDesigner.core" />
+      <recent name="Course.Management.System" />
+      <recent name="com.mysql.cj.jdbc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Course Management System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course.Management.System.Main" />
+      <module name="Course Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course.Management.System.MainClass" />
+      <module name="Course Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course.Management.System.Student" />
+      <module name="Course Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="courseLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course.Management.System.courseLogin" />
+      <module name="Course Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course.Management.System.firstPage" />
+      <module name="Course Management System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.firstPage" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.courseLogin" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="881b9a65-30ad-48e2-9ece-100fe1676d26" name="Default Changelist" comment="" />
+      <created>1609570096741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609570096741</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="811" y="126" key="#Inspections" timestamp="1613219341461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="126" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1613219341461" />
+    <state x="904" y="11" width="1016" height="1029" key="#Intentions" timestamp="1612275870241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="11" width="1016" height="1029" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1612275870241" />
+    <state x="660" y="321" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1613380766919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="321" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613380766919" />
+    <state x="590" y="234" key="#com.intellij.ide.util.ExportDialog" timestamp="1613306288044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="234" key="#com.intellij.ide.util.ExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613306288044" />
+    <state x="1139" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1613378962970">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1139" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613378962970" />
+    <state x="1206" y="388" width="467" height="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609577519340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1206" y="388" width="467" height="283" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1609577519340" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610099689032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610099689032" />
+    <state x="627" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613313770064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613313770064" />
+    <state x="1107" y="211" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1612180892439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1107" y="211" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612180892439" />
+    <state x="736" y="283" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1610804531084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="283" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610804531084" />
+    <state x="672" y="373" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613309677496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="373" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1613309677496" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1613308832827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613308832827" />
+    <state x="872" y="256" key="FileChooserDialogImpl" timestamp="1613462942500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="872" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613462942500" />
+    <state width="1865" height="170" key="GridCell.Tab.0.bottom" timestamp="1614135369465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614135369465" />
+    <state width="1865" height="170" key="GridCell.Tab.0.center" timestamp="1614135369464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="170" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614135369464" />
+    <state width="1865" height="170" key="GridCell.Tab.0.left" timestamp="1614135369464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="170" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614135369464" />
+    <state width="1865" height="170" key="GridCell.Tab.0.right" timestamp="1614135369465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614135369465" />
+    <state width="1865" height="332" key="GridCell.Tab.1.bottom" timestamp="1613310841250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613310841250" />
+    <state width="1865" height="332" key="GridCell.Tab.1.center" timestamp="1613310841250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613310841250" />
+    <state width="1865" height="332" key="GridCell.Tab.1.left" timestamp="1613310841250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613310841250" />
+    <state width="1865" height="332" key="GridCell.Tab.1.right" timestamp="1613310841250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613310841250" />
+    <state x="620" y="228" key="GuiDesigner.FormSource.Dialog" timestamp="1613306031859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="228" key="GuiDesigner.FormSource.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613306031859" />
+    <state x="300" y="307" width="1141" height="733" key="SettingsEditor" timestamp="1614088553221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="300" y="307" width="1141" height="733" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614088553221" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1612162499138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1612162499138" />
+    <state x="823" y="305" key="UIDesigner.ListEditorDialog" timestamp="1613379958320">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="305" key="UIDesigner.ListEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613379958320" />
+    <state x="1088" y="380" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1613379708896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1088" y="380" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613379708896" />
+    <state x="281" y="170" width="578" height="798" key="dock-window-1" timestamp="1613376167271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="281" y="170" width="578" height="798" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1613376167271" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-2" timestamp="1612009264127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1612009264127" />
+    <state x="234" y="230" key="extract.method.dialog" timestamp="1612180832704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="234" y="230" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612180832704" />
+    <state x="67" y="106" key="new project wizard" timestamp="1613410363972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="67" y="106" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1613410363972" />
+    <state x="1122" y="78" key="refactoring.ChangeSignatureDialog" timestamp="1611996064603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1122" y="78" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611996064603" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1612942270398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612942270398" />
+    <state x="958" y="229" width="840" height="1034" key="search.everywhere.popup" timestamp="1613290952612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="958" y="229" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613290952612" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Course_Management_System$firstPage.ic" NAME="firstPage Coverage Results" MODIFIED="1613310803462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Course.Management.System.*</FILTER>
+    </SUITE>
+  </component>
+</project>
